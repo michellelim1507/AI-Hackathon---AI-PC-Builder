@@ -1,0 +1,387 @@
+{
+  "cpu": [
+    {
+      "name": "AMD Ryzen 3 4100",
+      "brand": "AMD",
+      "series": "Ryzen 3",
+      "model": "4100",
+      "socket": "AM4",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 249
+    },
+    {
+      "name": "AMD Ryzen 5 5600G",
+      "brand": "AMD",
+      "series": "Ryzen 5",
+      "model": "5600G",
+      "socket": "AM4",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 489
+    },
+    {
+      "name": "AMD Ryzen 7 5800X3D",
+      "brand": "AMD",
+      "series": "Ryzen 7",
+      "model": "5800X3D",
+      "socket": "AM4",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 1399
+    },
+    {
+      "name": "AMD Ryzen 9 5950X",
+      "brand": "AMD",
+      "series": "Ryzen 9",
+      "model": "5950X",
+      "socket": "AM4",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 1999
+    },
+    {
+      "name": "AMD Ryzen 5 8600G",
+      "brand": "AMD",
+      "series": "Ryzen 5",
+      "model": "8600G",
+      "socket": "AM5",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 699
+    },
+    {
+      "name": "AMD Ryzen 7 8700G",
+      "brand": "AMD",
+      "series": "Ryzen 7",
+      "model": "8700G",
+      "socket": "AM5",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 1399
+    },
+    {
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "series": "Ryzen 9",
+      "model": "7950X",
+      "socket": "AM5",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 2299
+    },
+    {
+      "name": "AMD Ryzen 9 9950X",
+      "brand": "AMD",
+      "series": "Ryzen 9000 Series",
+      "model": "9950X",
+      "socket": "AM5",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 3499
+    },
+    {
+      "name": "Intel Core i3-10100F",
+      "brand": "Intel",
+      "series": "Core i3",
+      "model": "10100F",
+      "socket": "LGA1200",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 299
+    },
+    {
+      "name": "Intel Core i5-11600K",
+      "brand": "Intel",
+      "series": "Core i5",
+      "model": "11600K",
+      "socket": "LGA1200",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 599
+    },
+    {
+      "name": "Intel Core i7-11700K",
+      "brand": "Intel",
+      "series": "Core i7",
+      "model": "11700K",
+      "socket": "LGA1200",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 1199
+    },
+    {
+      "name": "Intel Core i9-11900K",
+      "brand": "Intel",
+      "series": "Core i9",
+      "model": "11900K",
+      "socket": "LGA1200",
+      "memoryType": "DDR4",
+      "estimatedPriceMYR": 1599
+    },
+    {
+      "name": "Intel Core i3-13100F",
+      "brand": "Intel",
+      "series": "Core i3",
+      "model": "13100F",
+      "socket": "LGA1700",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 359
+    },
+    {
+      "name": "Intel Core i5-13600KF",
+      "brand": "Intel",
+      "series": "Core i5",
+      "model": "13600KF",
+      "socket": "LGA1700",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 899
+    },
+    {
+      "name": "Intel Core i7-14700K",
+      "brand": "Intel",
+      "series": "Core i7",
+      "model": "14700K",
+      "socket": "LGA1700",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 2199
+    },
+    {
+      "name": "Intel Core i9-14900K",
+      "brand": "Intel",
+      "series": "Core i9",
+      "model": "14900K",
+      "socket": "LGA1700",
+      "memoryType": "DDR5",
+      "estimatedPriceMYR": 2999
+    }
+  ],
+
+  "motherboard": [
+    {
+      "name": "MSI A520M-A PRO",
+      "brand": "MSI",
+      "socket": "AM4",
+      "memoryType": ["DDR4"],
+      "formFactor": "Micro-ATX",
+      "estimatedPriceMYR": 249
+    },
+    {
+      "name": "ASUS TUF Gaming B550M-PLUS",
+      "brand": "ASUS",
+      "socket": "AM4",
+      "memoryType": ["DDR4"],
+      "formFactor": "Micro-ATX",
+      "estimatedPriceMYR": 499
+    },
+    {
+      "name": "Gigabyte B650M DS3H",
+      "brand": "Gigabyte",
+      "socket": "AM5",
+      "memoryType": ["DDR5"],
+      "formFactor": "Micro-ATX",
+      "estimatedPriceMYR": 699
+    },
+    {
+      "name": "MSI MAG B650 Tomahawk WiFi",
+      "brand": "MSI",
+      "socket": "AM5",
+      "memoryType": ["DDR5"],
+      "formFactor": "ATX",
+      "estimatedPriceMYR": 1099
+    },
+    {
+      "name": "ASUS PRIME H610M-K",
+      "brand": "ASUS",
+      "socket": "LGA1700",
+      "memoryType": ["DDR4"],
+      "formFactor": "Micro-ATX",
+      "estimatedPriceMYR": 359
+    },
+    {
+      "name": "Gigabyte B760M DS3H AX",
+      "brand": "Gigabyte",
+      "socket": "LGA1700",
+      "memoryType": ["DDR4", "DDR5"],
+      "formFactor": "Micro-ATX",
+      "estimatedPriceMYR": 699
+    },
+    {
+      "name": "MSI Z790 Gaming Plus WiFi",
+      "brand": "MSI",
+      "socket": "LGA1700",
+      "memoryType": ["DDR5"],
+      "formFactor": "ATX",
+      "estimatedPriceMYR": 1299
+    }
+  ],
+
+  "gpu": [
+    {
+      "name": "NVIDIA GTX 1650",
+      "brand": "NVIDIA",
+      "vram": "4GB",
+      "recommendedPSU": 450,
+      "estimatedPriceMYR": 599,
+      "useCase": ["office", "budget gaming"]
+    },
+    {
+      "name": "NVIDIA RTX 3060",
+      "brand": "NVIDIA",
+      "vram": "12GB",
+      "recommendedPSU": 550,
+      "estimatedPriceMYR": 1299,
+      "useCase": ["gaming", "editing", "ai"]
+    },
+    {
+      "name": "NVIDIA RTX 4060",
+      "brand": "NVIDIA",
+      "vram": "8GB",
+      "recommendedPSU": 550,
+      "estimatedPriceMYR": 1599,
+      "useCase": ["gaming", "editing", "ai"]
+    },
+    {
+      "name": "NVIDIA RTX 4070 SUPER",
+      "brand": "NVIDIA",
+      "vram": "12GB",
+      "recommendedPSU": 650,
+      "estimatedPriceMYR": 2999,
+      "useCase": ["high-end gaming", "ai", "rendering"]
+    },
+    {
+      "name": "AMD Radeon RX 6600",
+      "brand": "AMD",
+      "vram": "8GB",
+      "recommendedPSU": 500,
+      "estimatedPriceMYR": 1099,
+      "useCase": ["gaming"]
+    },
+    {
+      "name": "AMD Radeon RX 7800 XT",
+      "brand": "AMD",
+      "vram": "16GB",
+      "recommendedPSU": 700,
+      "estimatedPriceMYR": 2599,
+      "useCase": ["gaming", "editing"]
+    }
+  ],
+
+  "ram": [
+    {
+      "name": "Kingston Fury Beast 16GB",
+      "brand": "Kingston",
+      "capacity": "16GB",
+      "memoryType": "DDR4",
+      "speed": "3200MHz",
+      "estimatedPriceMYR": 179
+    },
+    {
+      "name": "Corsair Vengeance LPX 32GB",
+      "brand": "Corsair",
+      "capacity": "32GB",
+      "memoryType": "DDR4",
+      "speed": "3600MHz",
+      "estimatedPriceMYR": 349
+    },
+    {
+      "name": "Kingston Fury Beast 16GB DDR5",
+      "brand": "Kingston",
+      "capacity": "16GB",
+      "memoryType": "DDR5",
+      "speed": "5600MHz",
+      "estimatedPriceMYR": 299
+    },
+    {
+      "name": "Corsair Dominator Platinum 32GB DDR5",
+      "brand": "Corsair",
+      "capacity": "32GB",
+      "memoryType": "DDR5",
+      "speed": "6000MHz",
+      "estimatedPriceMYR": 699
+    }
+  ],
+
+  "storage": [
+    {
+      "name": "Kingston NV2 500GB NVMe SSD",
+      "brand": "Kingston",
+      "type": "NVMe SSD",
+      "capacity": "500GB",
+      "estimatedPriceMYR": 179
+    },
+    {
+      "name": "Samsung 980 1TB NVMe SSD",
+      "brand": "Samsung",
+      "type": "NVMe SSD",
+      "capacity": "1TB",
+      "estimatedPriceMYR": 329
+    },
+    {
+      "name": "WD Black SN850X 2TB",
+      "brand": "Western Digital",
+      "type": "NVMe SSD",
+      "capacity": "2TB",
+      "estimatedPriceMYR": 799
+    },
+    {
+      "name": "Seagate Barracuda 2TB HDD",
+      "brand": "Seagate",
+      "type": "HDD",
+      "capacity": "2TB",
+      "estimatedPriceMYR": 249
+    }
+  ],
+
+  "psu": [
+    {
+      "name": "Cooler Master MWE 550",
+      "brand": "Cooler Master",
+      "wattage": 550,
+      "efficiency": "80+ Bronze",
+      "estimatedPriceMYR": 229
+    },
+    {
+      "name": "Corsair CV650",
+      "brand": "Corsair",
+      "wattage": 650,
+      "efficiency": "80+ Bronze",
+      "estimatedPriceMYR": 299
+    },
+    {
+      "name": "MSI MAG A750GL",
+      "brand": "MSI",
+      "wattage": 750,
+      "efficiency": "80+ Gold",
+      "estimatedPriceMYR": 459
+    },
+    {
+      "name": "Corsair RM850x",
+      "brand": "Corsair",
+      "wattage": 850,
+      "efficiency": "80+ Gold",
+      "estimatedPriceMYR": 699
+    }
+  ],
+
+  "case": [
+    {
+      "name": "Montech Air 100",
+      "brand": "Montech",
+      "formFactorSupport": ["Micro-ATX", "Mini-ITX"],
+      "estimatedPriceMYR": 199
+    },
+    {
+      "name": "NZXT H5 Flow",
+      "brand": "NZXT",
+      "formFactorSupport": ["ATX", "Micro-ATX", "Mini-ITX"],
+      "estimatedPriceMYR": 399
+    }
+  ],
+
+  "cpuCooler": [
+    {
+      "name": "Stock CPU Cooler",
+      "brand": "AMD / Intel",
+      "supportedSockets": ["AM4", "AM5", "LGA1200", "LGA1700"],
+      "estimatedPriceMYR": 0
+    },
+    {
+      "name": "Deepcool AK400",
+      "brand": "Deepcool",
+      "supportedSockets": ["AM4", "AM5", "LGA1200", "LGA1700"],
+      "estimatedPriceMYR": 139
+    }
+  ]
+}
+  
+  
