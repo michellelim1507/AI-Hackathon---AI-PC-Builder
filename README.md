@@ -83,10 +83,3 @@ Team Mmebers:
 1) Lim Cher Earn
 2) Chong Chen Yu
 3) Hwa Su Kaye
-
----
-
-## Team Members
-
-- Your Name
-- Team Members
