@@ -1,4 +1,4 @@
-# AI-Hackathon---AI-PC-Builder
+# AI-Hackathon AI-PC-Builder
 ## Overview
 AI PC Builder is an intelligent system that helps users build compatible PCs based on budget and purpose using Artificial Intelligence.
 
